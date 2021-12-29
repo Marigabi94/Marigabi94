@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/Marigabi94/Marigabi94/blob/main/assets/photo_2021-12-29_16-31-40.jpg" />
+   <img align="center" width="200" border-radius="50" src="https://github.com/Marigabi94/Marigabi94/blob/main/assets/photo_2021-12-29_16-31-40.jpg" />
    <h3 align="center">¡Hola👋! Soy María Uzcategui👩🏻‍💻</h3>
 </p>
 
@@ -15,5 +15,5 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 - [LinkedIn](https://www.linkedin.com/in/IngMariaUzcategui)
 
 <p aling="center" width="300">
-# ¡Revisa mi contenido 👇!
+   <h1>¡Revisa mi contenido 👇!</h1>
 </p>
