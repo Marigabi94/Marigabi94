@@ -1,5 +1,6 @@
-# ![]()¡Hola👋! Soy María Uzcategui :woman_technologist:
-
+<p aling="center" width="300">
+   <h1 aling="center">¡Hola👋! Soy María Uzcategui :woman_technologist:</h1>
+</p>
 ![GitHub Followers](https://img.shields.io/github/followers/marigabi94?style=social)
 
 Soy un desarrolladora frontend con 3 años de experiencia, de Maracaibo (:venezuela:). Me gusta crear aplicaciones web con [Angular](https://angular.io/), fáciles de usar y construidas con las mejores prácticas.
