@@ -6,7 +6,7 @@
 
 Soy una Ing. en Informática, con carrera profesional como desarrolladora frontend con mas de 3 años de experiencia. Me gusta crear aplicaciones web con [Angular](https://angular.io/), fáciles de usar y construidas con las mejores prácticas.
 
-Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de capacidad constante de superación; por ello siempre seré capaz de aportar valor en el equipo de trabajo donde participe. Busco formar parte de un equipo donde pueda obtener una valiosa experiencia con la cual pueda expandir mis conocimientos, habilidades y crear carrera, a través de un trabajo en equipo organizado e innovador.
+Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de capacidad constante de superación; por ello siempre seré capaz de aportar valor en el equipo de trabajo en el cual me encuentre participando. Busco formar parte de un equipo donde pueda obtener una valiosa experiencia con la cual pueda expandir mis conocimientos, habilidades y crear carrera, a través de un trabajo en equipo organizado e innovador.
 
 #### :zap: Skills :zap: 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
