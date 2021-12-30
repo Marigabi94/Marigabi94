@@ -1,4 +1,4 @@
-# ¡Hola👋! Soy María Uzcategui :woman_technologist:
+# ¡Hola :wave:! Soy María Uzcategui :woman_technologist:
 ###### Desarrolladora Fronend
 ![GitHub Followers](https://img.shields.io/github/followers/marigabi94?style=social)
 
@@ -8,7 +8,7 @@ Soy una Ing. en Informática, con carrera profesional como desarrolladora fronte
 
 Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de capacidad constante de superación; por ello siempre seré capaz de aportar valor en el equipo de trabajo donde participe. Busco formar parte de un equipo donde pueda obtener una valiosa experiencia con la cual pueda expandir mis conocimientos, habilidades y crear carrera, a través de un trabajo en equipo organizado e innovador.
 
-#### Skills:
+#### :zap: Skills :zap: 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Typescript](https://img.shields.io/badge/Typescritp-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()</br>
@@ -23,16 +23,16 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 
 
 
-#### Puedes encontrarme en:
+#### :globe_with_meridians: Puedes encontrarme en :globe_with_meridians:
 [![Web](https://img.shields.io/badge/Web-Ing.MariaUzcategui-3DCBC2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ingmariauzcategui-e7a20.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/IngMariaUzcategui)
 [![Instagram](https://img.shields.io/badge/Instagram-@sertecmg-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]()
 
-#### Contactame:</br>
+#### :email: Contactame :email: </br>
 [![Email](https://img.shields.io/badge/Correo_Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marigabi940@gmail.com)
 
 
-#### Aporta:
+#### :moneybag: Aporta :money_with_wings:
 [![Paypal](https://img.shields.io/badge/Apoya_mi_trabajo-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=101010)](https://paypal.me/luminariave?country.x=VE&locale.x=es_XC)
 [![BuyMeAKOFI](https://img.shields.io/badge/Buy_Me_A_Ko_fi-Apoya_mi_trabajo-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=101010)](ko-fi.com/marigabi94) </br>
 [![USDT](https://img.shields.io/badge/USDT-0xFfDd18561C3Ab34bA0b87adFCfbb814F3de41FD3-259C77?style=for-the-badge&logo=usdt&logoColor=white&labelColor=101010)]()
