@@ -1,5 +1,4 @@
 # ¡Hola :wave:! Soy María Uzcategui :woman_technologist:
-###### Desarrolladora Fronend
 ![GitHub Followers](https://img.shields.io/github/followers/marigabi94?style=social)
 
 
@@ -20,6 +19,9 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 [![MySQL](https://img.shields.io/badge/MySQL-DE8909?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()</br>
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![VS](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()</br>
 
 
 | <a sytile="background=#000000" href="https://github.com/marigabi94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marigabi94&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true&custom_title=Estadísticas de GitHub&locale=es" alt="Mis github stats" /></a> | <a sytile="background=#000000" href="https://github.com/marigabi94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigabi94&layout=compact&theme=vue&hide_border=true&locale=es" /></a> |
@@ -41,7 +43,7 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 [![BuyMeAKOFI](https://img.shields.io/badge/Buy_Me_A_Ko_fi-Apoya_mi_trabajo-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=101010)](https://ko-fi.com/marigabi94) </br>
 [![USDT-ERC20](https://img.shields.io/badge/USDT_(ERC20)-0xFfDd18561C3Ab34bA0b87adFCfbb814F3de41FD3-259C77?style=for-the-badge&logo=usdt-erc20&logoColor=white&labelColor=101010)]()
 
-
+</br>
 <p aling="center" width="300">
    <h2 align="center">:octocat:¡Revisa mi contenido:point_down:!</h2>
 </p>
