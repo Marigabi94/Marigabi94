@@ -21,7 +21,8 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()</br>
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
-
+| <a href="https://github.com/marigabi94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marigabi94&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mis github stats" /></a> | <a href="https://github.com/marihabi94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigabi94&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 #### :globe_with_meridians: Puedes encontrarme en :globe_with_meridians:
 [![Web](https://img.shields.io/badge/Web-Ing.MariaUzcategui-3DCBC2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ingmariauzcategui-e7a20.web.app/)
