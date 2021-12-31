@@ -22,7 +22,7 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 
-| <a sytile="background=#000000" href="https://github.com/marigabi94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marigabi94&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=Estadísticas de GitHub&locale=es" alt="Mis github stats" /></a> | <a sytile="background=#000000" href="https://github.com/marigabi94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigabi94&layout=compact&theme=tokyonight&hide_border=true&locale=es" /></a> |
+| <a sytile="background=#000000" href="https://github.com/marigabi94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marigabi94&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true&custom_title=Estadísticas de GitHub&locale=es" alt="Mis github stats" /></a> | <a sytile="background=#000000" href="https://github.com/marigabi94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigabi94&layout=compact&theme=vue&hide_border=true&locale=es" /></a> |
 | ------------- | ------------- |
 
 
