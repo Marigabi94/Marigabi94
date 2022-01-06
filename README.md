@@ -40,8 +40,10 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 
 #### :moneybag: Aporta :money_with_wings:
 [![Paypal](https://img.shields.io/badge/Apoya_mi_trabajo-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=101010)](https://paypal.me/luminariave?country.x=VE&locale.x=es_XC)
-[![BuyMeAKOFI](https://img.shields.io/badge/Buy_Me_A_Ko_fi-Apoya_mi_trabajo-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=101010)](https://ko-fi.com/marigabi94) </br>
+[![BuyMeAKOFI](https://img.shields.io/badge/Buy_Me_A_Ko_fi-Apoya_mi_trabajo-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=101010)](https://ko-fi.com/H2H67OVVH) </br>
 [![USDT-ERC20](https://img.shields.io/badge/USDT_(ERC20)-0xFfDd18561C3Ab34bA0b87adFCfbb814F3de41FD3-259C77?style=for-the-badge&logo=usdt-erc20&logoColor=white&labelColor=101010)]()
+
+
 
 </br>
 <p aling="center" width="300">
