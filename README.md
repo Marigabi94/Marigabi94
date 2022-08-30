@@ -24,9 +24,8 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()</br>
 
 
-| <a sytile="background=#000000" href="https://github.com/marigabi94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marigabi94&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true&custom_title=Estadísticas de GitHub&locale=es" alt="Mis github stats" /></a> | <a sytile="background=#000000" href="https://github.com/marigabi94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigabi94&layout=compact&theme=vue&hide_border=true&locale=es" /></a> |
-| ------------- | ------------- |
-
+![Marigabi94 GitHub stats](https://github-readme-stats.vercel.app/api?username=marigabi94&count_private=true&show_icons=true&hide=contribs&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marigabi94&layout=compact&langs_count=6&hide_border=true)](https://github.com/marigabi94/github-readme-stats)
 
 
 #### :globe_with_meridians: Puedes encontrarme en :globe_with_meridians:
