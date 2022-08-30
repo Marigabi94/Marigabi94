@@ -3,7 +3,7 @@
 
 
 
-Soy una Ing. en Informática, con carrera profesional como desarrolladora frontend con mas de 3 años de experiencia. Me gusta crear aplicaciones web con [Angular](https://angular.io/), fáciles de usar y construidas con las mejores prácticas.
+Ing. en Informática, con carrera profesional como desarrolladora frontend con mas de 3 años de experiencia. Me gusta crear aplicaciones web con [Angular](https://angular.io/), fáciles de usar y construidas con las mejores prácticas.
 
 Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de capacidad constante de superación; por ello siempre seré capaz de aportar valor en el equipo de trabajo en el cual me encuentre participando. Busco formar parte de un equipo donde pueda obtener una valiosa experiencia con la cual pueda expandir mis conocimientos, habilidades y crear carrera, a través de un trabajo en equipo organizado e innovador.
 
@@ -24,8 +24,8 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()</br>
 
 
-![Marigabi94 GitHub stats](https://github-readme-stats.vercel.app/api?username=marigabi94&count_private=true&show_icons=true&hide=contribs&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marigabi94&layout=compact&langs_count=6&hide_border=true)](https://github.com/marigabi94/github-readme-stats)
+![Marigabi94 GitHub stats](https://github-readme-stats.vercel.app/api?username=marigabi94&count_private=true&show_icons=true&hide=contribs&hide_border=true&locale=es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marigabi94&layout=compact&langs_count=6&hide_border=true&locale=es)](https://github.com/marigabi94/github-readme-stats)
 
 
 #### :globe_with_meridians: Puedes encontrarme en :globe_with_meridians:
