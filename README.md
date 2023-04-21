@@ -33,7 +33,7 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Uzcategui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/IngMariaUzcategui)
 
 #### :email: Contactame :email: </br>
-[![Email](https://img.shields.io/badge/Correo_Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marigabi940@gmail.com)
+[![Email](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marigabi940@gmail.com)
 
 
 
