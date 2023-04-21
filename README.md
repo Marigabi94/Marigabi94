@@ -31,16 +31,9 @@ Creo firmemente que la evolución, adaptabilidad y flexibilidad son signos de ca
 #### :globe_with_meridians: Puedes encontrarme en :globe_with_meridians:
 [![Web](https://img.shields.io/badge/Web-Ing.MariaUzcategui-3DCBC2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ingmariauzcategui-e7a20.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Uzcategui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/IngMariaUzcategui)
-[![Instagram](https://img.shields.io/badge/Instagram-@sertecmg-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]()
 
 #### :email: Contactame :email: </br>
 [![Email](https://img.shields.io/badge/Correo_Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marigabi940@gmail.com)
-
-
-#### :moneybag: Aporta :money_with_wings:
-[![Paypal](https://img.shields.io/badge/Apoya_mi_trabajo-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=101010)](https://paypal.me/luminariave?country.x=VE&locale.x=es_XC)
-[![BuyMeAKOFI](https://img.shields.io/badge/Buy_Me_A_Ko_fi-Apoya_mi_trabajo-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=101010)](https://ko-fi.com/H2H67OVVH) </br>
-[![USDT-ERC20](https://img.shields.io/badge/USDT_(ERC20)-0xFfDd18561C3Ab34bA0b87adFCfbb814F3de41FD3-259C77?style=for-the-badge&logo=usdt-erc20&logoColor=white&labelColor=101010)]()
 
 
 
