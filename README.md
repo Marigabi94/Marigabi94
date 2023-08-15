@@ -28,10 +28,10 @@ Ingeniera en Informática con más de 5 años de experiencia como desarrolladora
 
 #### :globe_with_meridians: Puedes encontrarme en :globe_with_meridians:
 [![Web](https://img.shields.io/badge/Web-Ing.MariaUzcategui-3DCBC2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ingmariauzcategui-e7a20.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Uzcategui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/IngMariaUzcategui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Uzcategui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]( https://www.linkedin.com/in/ingmariauzcategui/)
 
 #### :email: Contactame :email: </br>
-[![Email](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marigabi940@gmail.com)
+[![Email](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mariauzcateguidev@gmail.com)
 
 
 
