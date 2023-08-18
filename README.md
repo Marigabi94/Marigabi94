@@ -2,8 +2,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/marigabi94?style=social)
 
 
-
-Ingeniera en Informática con más de 5 años de experiencia como desarrolladora frontend. Apasionada por crear aplicaciones web de calidad, fáciles de usar y construidas con las mejores prácticas. Me enfoco en la evolución, adaptabilidad y flexibilidad como indicadores de una constante capacidad de superación. Siempre busco aportar valor a los equipos de trabajo y estoy comprometida en expandir mis conocimientos y habilidades. Busco oportunidades en proyectos innovadores y colaborativos para construir una carrera exitosa en el campo del desarrollo web.
+Ingeniera en Informática con más de 5 años de experiencia en desarrollo frontend. Mi pasión es crear webs de calidad, intuitivas y construidas bajo las mejores prácticas. Mi enfoque en la evolución, adaptabilidad y flexibilidad demuestra mi capacidad constante de superación. Contribuyo al valor de los equipos mediante la mejora continua de mis conocimientos y habilidades, adaptándome ágilmente a las cambiantes necesidades de cada proyecto.
 
 #### :zap: Skills :zap: 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
