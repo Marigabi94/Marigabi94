@@ -23,7 +23,7 @@ Ingeniera en Informática con más de 5 años de experiencia en desarrollo front
 
 
 #### :globe_with_meridians: Puedes encontrarme en :globe_with_meridians:
-[![Web](https://img.shields.io/badge/Web- Mariadev -3DCBC2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mariadev.es/)
+[![Web](https://img.shields.io/badge/Web-Mariadev-3DCBC2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mariadev.es/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Uzcategui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]( https://www.linkedin.com/in/ingmariauzcategui/)
 
 #### :email: Contactame :email: </br>
