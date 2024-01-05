@@ -5,8 +5,6 @@
 Ingeniera en Informática con más de 5 años de experiencia en desarrollo frontend. Mi pasión es crear webs de calidad, intuitivas y construidas bajo las mejores prácticas. Mi enfoque en la evolución, adaptabilidad y flexibilidad demuestra mi capacidad constante de superación. Contribuyo al valor de los equipos mediante la mejora continua de mis conocimientos y habilidades, adaptándome ágilmente a las cambiantes necesidades de cada proyecto.
 
 #### :zap: Skills :zap: 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-[![Typescript](https://img.shields.io/badge/Typescritp-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()</br>
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]() 
@@ -18,7 +16,6 @@ Ingeniera en Informática con más de 5 años de experiencia en desarrollo front
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![VS](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()</br>
 
 
 ![Marigabi94 GitHub stats](https://github-readme-stats.vercel.app/api?username=marigabi94&count_private=true&show_icons=true&hide=contribs&hide_border=true&locale=es)
@@ -26,11 +23,11 @@ Ingeniera en Informática con más de 5 años de experiencia en desarrollo front
 
 
 #### :globe_with_meridians: Puedes encontrarme en :globe_with_meridians:
-[![Web](https://img.shields.io/badge/Web-Ing.MariaUzcategui-3DCBC2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mariadev.es/)
+[![Web](https://img.shields.io/badge/Web- Mariadev -3DCBC2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mariadev.es/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Uzcategui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]( https://www.linkedin.com/in/ingmariauzcategui/)
 
 #### :email: Contactame :email: </br>
-[![Email](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mariauzcateguidev@gmail.com)
+[![Email](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:contact@mariadev.es)
 
 
 
